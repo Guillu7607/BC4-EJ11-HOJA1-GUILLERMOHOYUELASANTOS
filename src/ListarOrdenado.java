@@ -1,7 +1,7 @@
 import java.sql.*;
 
 public class ListarOrdenado {
-    // Datos de conexión (Asegúrate de que coincidan con tu DB)
+    // Datos de conexión 
     private static final String URL = "jdbc:oracle:thin:@localhost:1521:xe";
     private static final String USER = "RIBERA";
     private static final String PASS = "ribera";
